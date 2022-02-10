@@ -48,7 +48,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action: 
 
-[Placeholder link](https://bit.ly/3IUs7eO)
+[Youtube link](https://bit.ly/3IUs7eO)
 
 ### Related products <Other books you may enjoy>
 * Increasing Autodesk Revit Productivity for BIM Projects  [[Packt]](https://www.packtpub.com/product/increasing-autodesk-revit-productivity-for-bim-projects/9781800566804) [[Amazon]](https://www.amazon.com/Increasing-Autodesk-Revit-Productivity-Projects/dp/1800566808)
