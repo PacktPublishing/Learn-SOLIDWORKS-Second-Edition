@@ -1,2 +1,2 @@
-# Learn-SOLIDWORKS-2022
-Learn SOLIDWORKS 2022, published by Packt
+# Learn-SOLIDWORKS-Second Edition
+Learn SOLIDWORKS Second Editon, published by Packt
